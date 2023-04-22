@@ -1,0 +1,22 @@
+# Docs: http://git-scm.com/docs/gitignore#_pattern_format
+
+# OS
+.DS_Store
+.idea
+.ipynb_checkpoints
+.vscode
+__pycache__
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Directories
+data/
+fodder/

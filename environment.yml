@@ -1,0 +1,25 @@
+name: music
+
+channels:
+  - conda-forge
+  # - huggingface
+  - pytorch
+
+dependencies:
+  - python=3.10
+  # - datasets
+  - ipykernel
+  - ipython
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - pytorch
+  - scikit-learn
+  - torchaudio
+  - torchvision
+  - tqdm
+  # - pip:
+  #   - torchdiffeq
+    # - "git+https://github.com/"
