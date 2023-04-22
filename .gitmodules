@@ -1,0 +1,3 @@
+[submodule "MusicTransformer-Pytorch"]
+	path = MusicTransformer-Pytorch
+	url = https://github.com/gwinndr/MusicTransformer-Pytorch.git
