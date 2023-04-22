@@ -1,3 +1,6 @@
 [submodule "MusicTransformer-Pytorch"]
 	path = MusicTransformer-Pytorch
 	url = https://github.com/gwinndr/MusicTransformer-Pytorch.git
+[submodule "midi-neural-processor"]
+	path = midi-neural-processor
+	url = https://github.com/jason9693/midi-neural-processor.git
